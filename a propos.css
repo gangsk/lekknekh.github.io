@@ -1,0 +1,1047 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.navbar  {
+    box-shadow: 5px 5px 5px   rgb(184, 177, 173);
+    background-color: #efeff5;
+    height: 85px;
+}
+
+.navbar .logo{
+   position: absolute;
+
+    
+}
+
+.navbar .logo img{
+    position: absolute;
+    width: 200px;
+    margin-left: 80px;
+    height: 950px;
+    padding-bottom: 860px;
+}
+
+.menu{
+    
+    margin-left: 800px;
+    padding-top: 25px;
+    font-family: cursive;
+	
+}
+
+.menu li{
+	display:inline-block;	
+}
+.menu li a{
+        font-size: 20px;
+        padding-right: 30px;
+        color: #25292d;   
+}
+
+.navbar .menu .line{
+    width: 87px;
+    height: 3px;
+    background-color: #e44249;
+    margin-left: 130px;
+}
+
+.navbar .p1{
+    position: absolute;
+    font-size: 80px;
+    margin-left: 80px;
+    margin-top: 60px;
+    font-family:cursive;
+    font-weight: 300;
+    line-height: 90px;
+    color: #25292d;
+}
+
+.navbar .btn a{
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 85px;
+	font-family: "Rubik", Sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+	width: 250px;
+	height: 55px;
+	background-color: #e44249;
+	color: white;
+	border:2px solid #e44249;
+	padding-left: 40px;
+    padding-top: 17px;
+	border-radius: 5px;
+}
+
+.navbar .btn a:hover{
+    background-color: rgb(37, 34, 34);
+    border: rgb(37, 34, 34);
+}
+
+
+                        /****************************************************************/
+
+ .section-1 .div1{
+     position: absolute;
+    font-family: "Rubik", Sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+     margin-top: 150px;
+     margin-left: 500px;
+ }                       
+
+ .section-1 .div-2{
+     position: absolute;
+     font-family: 'Kaushan Script', cursive;
+    font-size: 50px;
+    font-weight: 400;
+    margin-top: 107px;
+     margin-left: 485px;
+     color: rgba(191, 199, 206, 0.6);
+ }     
+
+ .section-1 .a-img img{
+    margin-top: 290px;
+    margin-left: 100px;
+ }  
+
+ .section-1 .p-propos{
+     position: absolute;
+     margin-top: 310px;
+     margin-left: 600px;
+     font-family: "Rubik", Sans-serif;
+     font-size: 20px;
+ }
+
+ .section-1   .p1-propos p{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 600px;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #7b7e81;
+ }
+ 
+ .section-1 .line-2{
+     position: absolute;
+    width: 156px;
+    height: 3px;
+    background-color: #e44249;
+    margin-top: 220px;
+    margin-left: 600px;
+    
+ }
+
+ .section-1 .div-3{
+    position: absolute;
+    font-family: cursive;
+    color: #7b7e81;
+    margin-top: 200px;
+    margin-left: 150px;
+    font-size: 17px;
+ }
+
+ .section-1 .div-3 p .span1{
+    margin-left: 350px;
+ }
+ .section-1 .div-3 p .span2{
+    margin-left: 13px;
+ }
+
+ .section-1 .div-4 {
+     position: absolute;
+     margin-top: 350px;
+     margin-left: 363px;
+ }
+
+ .section-1 .div-5 p{
+     position: absolute;
+     color: #25292d;
+    font-family: "Rubik", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 530px;
+    margin-left: 80px;
+ }
+
+ .section-1 .line6{
+     position: absolute;
+    width: 160px;
+    height: 3px;
+    background-color: #e44249;
+    margin-top: 560px;
+    margin-left: 80px;
+ }
+
+ .section-1 .div6 p{
+    position: absolute;
+    color: #25292d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 600px;
+   margin-left: 80px;
+   line-height: 15px;
+   
+ }
+
+ .section-1 .div7 p{
+     position: absolute;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #7b7e81;
+    margin-top: 620px;
+    margin-left: 80px;
+ }
+
+ .section-1 .div8 p{
+    position: absolute;
+    color: #1b1c1d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 685px;
+   margin-left: 80px;
+ }
+
+ .section-1 .div9 p{
+     position: absolute;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #7b7e81;
+    margin-top: 705px;
+    margin-left: 80px;
+ }
+
+ .section-1 .div10 p{
+    position: absolute;
+    color: #1b1c1d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 763px;
+   margin-left: 80px;
+ }
+
+ .section-1 .div11 p{
+     position: absolute;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #7b7e81;
+    margin-top: 785px;
+    margin-left: 80px;
+ }
+
+ .section-1 .div12 p{
+    position: absolute;
+    color: #1b1c1d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 840px;
+   margin-left: 80px;
+ }
+
+ .section-1 .div13 p{
+     position: absolute;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #7b7e81;
+    margin-top: 860px;
+    margin-left: 80px;
+ }
+
+ .section-1 .div14 p{
+    position: absolute;
+    color: #1b1c1d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 910px;
+   margin-left: 80px;
+ }
+
+ .section-1 .div15 p{
+     position: absolute;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #7b7e81;
+    margin-top: 930px;
+    margin-left: 80px;
+ }
+
+ .section-1 .div16 img{
+     position: absolute;
+     margin-left: 700px;
+     margin-top: 500px;
+ }
+
+ .section-1 .div-17 p{
+    position: absolute;
+    color: #25292d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 20px;
+   font-weight: 400;
+   margin-top: 1150px;
+   margin-left: 750px;
+}
+
+.section-1 .line7{
+    position: absolute;
+   width: 60px;
+   height: 3px;
+   background-color: #e44249;
+   margin-top: 1180px;
+   margin-left: 750px;
+}
+
+.section-1 .div18 p{
+    position: absolute;
+    color: #1b1c1d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 1210px;
+   margin-left: 750px;
+ }
+
+ .section-1 .div19 p{
+    position: absolute;
+   font-family: "Open Sans", Sans-serif;
+   font-size: 13px;
+   font-weight: 300;
+   line-height: 30px;
+   letter-spacing: 0px;
+   color: #7b7e81;
+   margin-top: 1230px;
+   margin-left: 750px;
+}
+
+.section-1 .div20 p{
+    position: absolute;
+    color: #1b1c1d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 1280px;
+   margin-left: 750px;
+ }
+
+ .section-1 .div21 p{
+    position: absolute;
+   font-family: "Open Sans", Sans-serif;
+   font-size: 13px;
+   font-weight: 300;
+   line-height: 30px;
+   letter-spacing: 0px;
+   color: #7b7e81;
+   margin-top: 1300px;
+   margin-left: 750px;
+}
+
+.section-1 .div22 p{
+    position: absolute;
+    color: #1b1c1d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 1350px;
+   margin-left: 750px;
+ }
+
+ .section-1 .div23 p{
+    position: absolute;
+   font-family: "Open Sans", Sans-serif;
+   font-size: 13px;
+   font-weight: 300;
+   line-height: 30px;
+   letter-spacing: 0px;
+   color: #7b7e81;
+   margin-top: 1370px;
+   margin-left: 750px;
+}
+
+.section-1 .div24 p{
+    position: absolute;
+    color: #1b1c1d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 1420px;
+   margin-left: 750px;
+ }
+
+ .section-1 .div25 p{
+    position: absolute;
+   font-family: "Open Sans", Sans-serif;
+   font-size: 13px;
+   font-weight: 300;
+   line-height: 30px;
+   letter-spacing: 0px;
+   color: #7b7e81;
+   margin-top: 1440px;
+   margin-left: 750px;
+}
+
+.section-1 .div26 p{
+    position: absolute;
+    color: #1b1c1d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 1480px;
+   margin-left: 750px;
+ }
+
+ .section-1 .div27 p{
+    position: absolute;
+   font-family: "Open Sans", Sans-serif;
+   font-size: 13px;
+   font-weight: 300;
+   line-height: 30px;
+   letter-spacing: 0px;
+   color: #7b7e81;
+   margin-top: 1500px;
+   margin-left: 750px;
+}
+
+.section-1 .div28 img{
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 1100px;
+}
+
+.section-1 .div29 img{
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 1730px;
+}
+
+.section-1 .div30 img{
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 1730px;
+}
+
+.section-1 .div31 img{
+    position: absolute;
+    margin-left: 880px;
+    margin-top: 1730px;
+}
+
+.section-1 .div32{
+    position: absolute;
+    color: #25292d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 20px;
+   font-weight: 400;
+   margin-top: 2220px;
+   margin-left: 670px;
+}
+
+.section-1 .line8{
+    position: absolute;
+   width: 160px;
+   height: 3px;
+   background-color: #e44249;
+   margin-top: 2250px;
+   margin-left: 670px;
+}
+
+.section-1 .div33{
+    position: absolute;
+    color: #25292d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 20px;
+   font-weight: 400;
+   margin-top: 2220px;
+   margin-left: 90px;
+}
+
+.section-1 .line9{
+    position: absolute;
+   width: 160px;
+   height: 3px;
+   background-color: #e44249;
+   margin-top: 2250px;
+   margin-left: 90px;
+}
+
+.section-1 .div34 p{
+    position: absolute;
+    color: #25292d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 2280px;
+   margin-left: 90px;
+   line-height: 15px;
+   
+ }
+
+ .section-1 .div35 p{
+     position: absolute;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #7b7e81;
+    margin-top: 2295px;
+    margin-left: 90px;
+ }
+
+ .section-1 .div36 p{
+    position: absolute;
+    color: #25292d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 2350px;
+   margin-left: 90px;
+   line-height: 15px;
+   
+ }
+
+ .section-1 .div37 p{
+     position: absolute;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #7b7e81;
+    margin-top: 2365px;
+    margin-left: 90px;
+ }
+
+ .section-1 .div38 p{
+    position: absolute;
+    color: #25292d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 2415px;
+   margin-left: 90px;
+   line-height: 15px;
+   
+ }
+
+ .section-1 .div39 p{
+     position: absolute;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #7b7e81;
+    margin-top: 2430px;
+    margin-left: 90px;
+ }
+
+ .section-1 .div40 p{
+    position: absolute;
+    color: #25292d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 2475px;
+   margin-left: 90px;
+   line-height: 15px;
+   
+ }
+
+ .section-1 .div41 p{
+     position: absolute;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #7b7e81;
+    margin-top: 2490px;
+    margin-left: 90px;
+ }
+
+ .section-1 .div42 p{
+    position: absolute;
+    color: #25292d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 2535px;
+   margin-left: 90px;
+   line-height: 15px;
+   
+ }
+
+ .section-1 .div43 p{
+     position: absolute;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #7b7e81;
+    margin-top: 2550px;
+    margin-left: 90px;
+ }
+
+ .section-1 .div44 p{
+    position: absolute;
+    color: #25292d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 2535px;
+   margin-left: 670px;
+   line-height: 15px;
+   
+ }
+
+ .section-1 .div45 p{
+     position: absolute;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #7b7e81;
+    margin-top: 2550px;
+    margin-left: 670px;
+ }
+
+ .section-1 .div46 p{
+    position: absolute;
+    color: #25292d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 2475px;
+   margin-left: 670px;
+   line-height: 15px;
+   
+ }
+
+ .section-1 .div47 p{
+     position: absolute;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #7b7e81;
+    margin-top: 2490px;
+    margin-left: 670px;
+ }
+
+ .section-1 .div48 p{
+    position: absolute;
+    color: #25292d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 2415px;
+   margin-left: 670px;
+   line-height: 15px;
+   
+ }
+
+ .section-1 .div49 p{
+     position: absolute;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #7b7e81;
+    margin-top: 2430px;
+    margin-left: 670px;
+ }
+
+ .section-1 .div50 p{
+    position: absolute;
+    color: #25292d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 2350px;
+   margin-left: 670px;
+   line-height: 15px;
+   
+ }
+
+ .section-1 .div51 p{
+     position: absolute;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #7b7e81;
+    margin-top: 2365px;
+    margin-left: 670px;
+ }
+
+ .section-1 .div52 p{
+    position: absolute;
+    color: #25292d;
+   font-family: "Rubik", Sans-serif;
+   font-size: 15px;
+   font-weight: 400;
+   margin-top: 2280px;
+   margin-left: 670px;
+   line-height: 15px;
+   
+ }
+
+ .section-1 .div53 p{
+     position: absolute;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #7b7e81;
+    margin-top: 2295px;
+    margin-left: 670px;
+ }
+
+ .section-1 .div54 a{
+    position: absolute;
+   margin-top: 2600px;
+   margin-left: 530px;
+	font-family: "Rubik", Sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+	width: 250px;
+	height: 55px;
+	background-color: #272222;
+	color: white;
+	border:2px solid #272222;
+	border-radius: 5px;
+    padding-left: 55px;
+    padding-top: 17px;
+  
+}
+
+.section-1 .div54 a:hover{
+    background-color: #e44249;
+    border: #e44249;
+}
+
+.section-1 .div55{
+    position: absolute;
+   font-family: "Rubik", Sans-serif;
+   font-size: 35px;
+   font-weight: 400;
+    padding-top: 100px;
+    margin-left: 400px;
+    margin-top: 2700px;
+}                       
+
+.section-1 .div56{
+    position: absolute;
+    font-family: 'Kaushan Script', cursive;
+   font-size: 60px;
+   font-weight: 400;
+    margin-left: 500px;
+    margin-top: 2745px;
+    color:   rgba(184, 190, 196, 0.6);
+} 
+
+.section-1 .line10{
+    position: absolute;
+   width: 170px;
+   height: 3px;
+   background-color: #e44249;
+   margin-top: 2880px;
+   margin-left: 570px;
+}
+
+.section-1 .div57 img{
+    position: absolute;
+    margin-top: 2950px;
+    height: 385px;
+}
+
+.section-1 .div58 img{
+    position: absolute;
+    margin-top: 2950px;
+    height: 385px;
+    margin-left: 682px;
+}
+
+.section-1 .div59 img{
+    position: absolute;
+    margin-top: 3355px;
+    height: 287px;
+}
+
+.section-1 .div60 img{
+    position: absolute;
+    margin-top: 3658px;
+    height: 287px;
+}
+
+.section-1 .div61 img{
+    position: absolute;
+    margin-top: 3355px;
+    height: 590px;
+    margin-left: 680px;
+}
+
+.section-1 .div62{
+    position: absolute;
+    font-family: 'Kaushan Script', cursive;
+   font-size: 80px;
+   font-weight: 400;
+    margin-left: 500px;
+    margin-top: 4005px;
+    color:   rgba(184, 190, 196, 0.6);
+}
+
+.section-1 .div63{
+    position: absolute;
+   font-family: "Rubik", Sans-serif;
+   font-size: 30px;
+   font-weight: 400;
+    margin-left: 535px;
+    margin-top: 4080px;
+}
+
+.section-1 .line11{
+    position: absolute;
+   width: 170px;
+   height: 3px;
+   background-color: #e44249;
+   margin-top: 4140px;
+   margin-left: 595px;
+}
+
+.section-1 iframe{
+    position: absolute;
+    margin-top: 4190px;
+    margin-left: 100px;
+    width: 550px;
+    height: 300px;
+
+}
+
+.section-1 .div64   .name{
+    position: absolute;
+    margin-top: 4190px;
+    margin-left: 675px;
+    height: 45px;
+    width: 280px;
+    padding-left: 10px;
+    font-size: 14px;
+}
+
+.section-1 .div64   .telephone{
+    position: absolute;
+    margin-top: 4190px;
+    margin-left: 990px;
+    height: 45px;
+    width: 280px;
+    padding-left: 10px;
+    font-size: 14px;
+}
+
+.section-1 .div64   .date{
+    position: absolute;
+    margin-top: 4245px;
+    margin-left: 675px;
+    height: 45px;
+    width: 280px;
+    padding-left: 10px;
+    font-size: 14px;
+}
+
+.section-1 .div64   .time{
+    position: absolute;
+    margin-top: 4245px;
+    margin-left: 990px;
+    height: 45px;
+    width: 280px;
+    padding-left: 10px;
+    font-size: 14px;
+    
+}
+
+.section-1 .div64   .seat{
+    position: absolute;
+    margin-top: 4300px;
+    margin-left: 675px;
+    height: 45px;
+    width: 280px;
+    padding-left: 10px;
+    font-size: 14px;
+    
+}
+
+.section-1 .div64   .email{
+    position: absolute;
+    margin-top: 4300px;
+    margin-left: 990px;
+    height: 45px;
+    width: 280px;
+    padding-left: 10px;
+    font-size: 14px;
+    
+}
+
+.section-1 .div64   .des{
+    position: absolute;
+    margin-top: 4360px;
+    margin-left: 675px;
+    height: 130px;
+    width: 595px;
+    padding-left: 10px;
+    font-size: 17px;
+    
+}
+
+.section-1 .div65 a{
+    position: absolute;
+    margin-top: 4540px;
+   margin-left: 870px;
+	font-family: "Rubik", Sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+	width: 190px;
+	height: 55px;
+	background-color: #e44249;
+	color: white;
+	border:2px solid #e44249;
+	border-radius: 5px;
+    padding-left: 60px;
+    padding-top: 17px;
+  
+}
+
+.section-1 .div65 a:hover{
+    background-color: rgb(39, 37, 37);
+    border:rgb(39, 37, 37) ;
+  
+}
+
+.section-1 .div66{
+    position: absolute;
+    margin-top: 200px;
+    background-color: #25292d;
+    height: 200px;
+    width: 100%;
+}
+
+.section-1 .div66 p{
+    position: absolute;
+    color: #ffff;
+    font-family: "Rubik", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 220px;
+    margin-top: 50px;
+}
+
+.section-1  .div67{
+    position: absolute;
+    color: #97999b;
+    margin-top: 290px;
+    margin-left: 140px;
+    font-size: 20px;
+    font-family:  "Open Sans", Sans-serif;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.section-1 .div68 p{
+    position: absolute;
+    color: #fff;
+    font-family: "Rubik", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 600px;
+    margin-top: 245px;
+
+}
+
+.section-1 .div68 .fa{
+    position: absolute;
+    margin-left: 10px;
+    color: #97999b;
+    margin-top: 290px;
+    margin-left: 550px;
+    font-size: 30px;
+    
+}
+
+.section-1 .div69 p{
+    position: absolute;
+    color: rgb(248, 248, 248);
+    font-family: "Rubik", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 950px;
+    margin-top: 230px;
+}
+
+.section-1 .div70{
+    position: absolute;
+    color: #97999b;
+    margin-top: 260px;
+    margin-left: 950px;
+    font-size: 20px;
+    font-family:  "Open Sans", Sans-serif;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.section-1 .div71{
+    position: absolute;
+    background-color: #212428;
+    height: 85px;
+    width: 100%;
+    margin-top: 370px;
+}
+
+.section-1 .div71 img{
+    position: absolute;
+   height: 85px;
+   margin-left: 85px;
+}
+
+.section-1 .div71 p{
+    position: absolute;
+    color: #97999b;
+    margin-left: 500px;
+    margin-top: 33px;
+}
+
+
+
+
+
+
+
